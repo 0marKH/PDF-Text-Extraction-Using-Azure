@@ -48,13 +48,6 @@ Run the Notebook
 
 Open Jupyter Notebook and execute the cells to process the document.
 
-File Structure
-
-.
-├── azure_form_processing.ipynb  # Main Jupyter Notebook
-├── README.md                    # Project Documentation
-└── requirements.txt              # Dependencies list (if needed)
-
 Usage
 
 Modify the PDF_PATH variable to point to your document.
